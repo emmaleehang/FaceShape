@@ -1,6 +1,6 @@
 # The following files are used for analyses in 'Polygenic Evolution of Human Face Shape Across Ancestries'
 
-# The R files are for creating the figures shown in the manuscript.
+# The R scripts are for creating the figures shown in the manuscript.
 
 1. ParallelPlots.R - used to create Figure 1 and Supplementary Figures 6-10
 2. ViolinBoxPlots.R - used to create Supplementary Figures 1-5
