@@ -12,7 +12,7 @@
 # The following data files are used in R scripts to create the figures
 1. AllParaPlotData.xlsx - used in ParallelPlots.R
 2. AllVBPlotData.xlsx - used in ViolinBoxPlots.R
-3. FinalDataWithAge.xlsx - summary data files for 194 facial SNPs retained for analyses requiring age data, used in Histograms.R
+3. FinalDataWithAge.xlsx - summary data files for 194 facial SNPs retained for analyses requiring age data, used in Histograms.R and DensityDistributions.R
 4. FinalDataWithoutAge.xlsx - summary data file for all 290 facial SNPs retained in all analyses that does not require age data
 5. OtherTraitsAgeData.xlsx - used in Scatter.R [also a summary xlsx file of all non-face trait data]
 6. FacePVEData.csv - used in PVE.R
