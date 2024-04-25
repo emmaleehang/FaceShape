@@ -16,6 +16,6 @@
 4. FinalDataWithoutAge.xlsx - summary data file for all 290 facial SNPs retained in all analyses that does not require age data
 5. OtherTraitsAgeData.xlsx - used in Scatter.R [also a summary xlsx file of all non-face trait data]
 6. FacePVEData.csv - used in PVE.R
-7. FaceScatterData.csv - used in Scatter.R
+7. FaceScatterData.csv - used in Histograms.R
 8. NonFaceAge.csv - used in DensityDistributions.R
 9. PopulationCharacteristic.csv - used in PVE.R
